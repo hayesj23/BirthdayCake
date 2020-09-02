@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:text="Happy Birthday!"
             android:textColor="#FF5722"
-            android:textSize="30sp" />
+            android:textSize="32sp" />
     </LinearLayout>
 
     <LinearLayout
